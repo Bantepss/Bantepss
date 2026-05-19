@@ -16,7 +16,7 @@ I'm an Information Systems and Technology undergraduate student at Institut Tekn
 - Arduino | ESP32 | Sensor Integrations (Ultrasonic, pH, LDR)
 
 **Design & Analysis**
-- UI/UX Design | Data Flow Diagrams (DFD) | SWOT Analysis | CapCut
+- UI/UX Design | Data Flow Diagrams (DFD) | SWOT Analysis | Front-end Developer | Front-end Structure | TailWind 
 
 ## 📈 Featured Projects & Experience
 *   **Graduation Parade Digital Transformation** 
